@@ -1,0 +1,41 @@
+/*********** Profile Box ***************/
+.card-box {
+    background-color: #eeeeee;
+    border-radius: 10px;
+    margin-bottom: 10px;
+    padding: 20px;
+}
+
+.frame-media {
+    margin-top: 25px !important;
+    margin-bottom: 25px !important;
+}
+
+.card-box img {
+    height: 80px;
+    margin: auto;
+    width: 80px;
+}
+
+.card-box h4 {
+    text-transform: uppercase;
+}
+
+.card-box p {
+    font-size: 11px;
+}
+
+/************* Carousel *********/
+.carousel .banner-item {
+    height: 250px;
+    min-height: 50%;
+
+    
+  }
+  
+  .banner-item img {
+      position: absolute;
+      top: 0;
+      left: 0;
+      min-height: 80%;
+  }
